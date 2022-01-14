@@ -25,6 +25,11 @@ Hi there (●'◡'●)💕
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/>
 <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=Bootstrap&logoColor=white"/>
 </div>
+<br>
+<br>
+<!-- 판다스, 넘파이, 뷰티풀소프, 코엔엘파이, 워드투벡
+ 아마존클라우드 도커 쿠버네티스
+텐서플로우 파이토치 미디어파이프, 오픈포즈, 욜로-->
 
 
 <!--
