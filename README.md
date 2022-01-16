@@ -27,9 +27,12 @@ Hi there (●'◡'●)💕
 </div>
 <br>
 <br>
-<!-- 판다스, 넘파이, 뷰티풀소프, 코엔엘파이, 워드투벡
- 아마존클라우드 도커 쿠버네티스
-텐서플로우 파이토치 미디어파이프, 오픈포즈, 욜로-->
+<div style="float: left; width: 50%">
+<img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=black"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white"/>
+</div>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=black"/>
 
 
 <!--
